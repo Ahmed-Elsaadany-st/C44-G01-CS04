@@ -92,6 +92,36 @@
 
 
             #endregion
+            #region question5
+          //  int firstIndex=0;
+          //  int lastIndex=0;
+          //  Console.Write("Please Enter the value: ");
+          //int.TryParse(Console.ReadLine(), out int value);
+            
+          //  int[] array = { 1, 2, 3, 4, 5, 6, 7, 2,8 };
+
+          //  for (int i = 0; i < array.Length; i++)
+          //  {
+          //      if (array[i] == value)
+          //      {
+          //          firstIndex = i; // This for loop to determine the first index
+          //          break; // Stop After Finding the first place
+          //      }
+
+          //  }
+           
+          //  for (int i = firstIndex; i < array.Length; i++)
+          //  {
+          //      if (array[i] == value)
+          //      {
+          //          lastIndex = i; // This for loop to determine the last index
+                    
+          //      }
+
+          //  }
+
+          //  Console.WriteLine($"The Longest Distance is : {lastIndex - firstIndex - 1}");
+            #endregion
             #region Question6
             //string wordsList = "this is a test";// List of space separeted words
             //string[] words = wordsList.Split(' ');
@@ -103,7 +133,7 @@
 
 
             #endregion
-          
+
         }
         public static void LongestDistance(int[]array,int value)
         {
